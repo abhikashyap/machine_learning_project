@@ -13,7 +13,7 @@ def get_requirements_list()->List[str]:
 
 setup(
   name="housing-predictor",
-  version="0.0.4",
+  version="0.0.6",
   author="abhishek",
   description="this is first ml project",
   packages=find_packages(),
